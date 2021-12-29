@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    background: url("../img/minimalizm-onlydirt-dirt.jpg") no-repeat;
+    background-size: 100%;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serifW;
+}
+.button {
+    margin: auto;
+    width: 100px;
+    color: white;
+    text-decoration: none;
+    padding: 0px 10px;
+    outline: none;
+    border-width: 2px 0;
+    border-style: solid none;
+    border-color: #4cb2b6 #000 #43a2a5;
+    border-radius: 6px;
+    background: linear-gradient(#4cb2b6, #41989b) #4cb2b6;
+    transition: 0.2s;
+}
+.button:hover { background: linear-gradient(#60d7db, #4cb2b6) #42c2c7; }
+.button:active { background: linear-gradient(#4cb2b6, #42c2c7) #4cb2b6; }
+.rm {
+
+    font-size: 17px;
+    text-align: center;
+}
+.h1 {
+    color: white;
+    margin-top: 300px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.text {
+    margin-top: 0px;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+.p {
+    padding: 0px 20px;
+    margin-top: 390px;
+    width: 730px;
+    color: white;
+    background-color: #282828;
+    float: left;
+}
+.p2 {
+    padding: 0px 20px;
+    margin-top: 390px;
+    width: 709px;
+    color: #282828;
+    background-color: #4cb2b6;
+    float: left;
+}
